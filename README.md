@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!+👋;I’m+ABU+SAID;Fullstack+Engineer+Here+🚀;Let’s+Build+Something+Cool!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!+👋;I’m+William+Jefferson;Fullstack+Engineer+Here&center=true&size=30">
   </a>
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=said7388&color=brightgreen" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=hightechdev57&color=brightgreen" alt="Profile Views">
 </p>
 
 ---
@@ -69,17 +69,17 @@ Here are some ideas to get you started:
 ### My Github Stats:
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=said7388&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Abu Said's GitHub status" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hightechdev57&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Abu Said's GitHub status" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=said7388&theme=algolia" alt="said7388" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hightechdev57&theme=algolia" alt="hightechdev57" />
 </p>
 
 ---
 
 ### Top Usage Languages:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=said7388&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hightechdev57&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
 
 ---
 
@@ -87,10 +87,10 @@ Here are some ideas to get you started:
 ### Featured Repositories
 
 
-<a href="https://github.com/said7388/developer-portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=said7388&repo=developer-portfolio&theme=algolia" />
+<a href="https://github.com/hightechdev57/developer-portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hightechdev57&repo=developer-portfolio&theme=algolia" />
 </a>
-<a href="https://github.com/said7388/Express-Postgres-blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=said7388&repo=Express-Postgres-blog&theme=algolia" />
+<a href="https://github.com/hightechdev57/Express-Postgres-blog">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hightechdev57&repo=Express-Postgres-blog&theme=algolia" />
 </a>
 
